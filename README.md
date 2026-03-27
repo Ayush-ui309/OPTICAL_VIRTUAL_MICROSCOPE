@@ -6,7 +6,7 @@ Microscopes are limited by diffraction and optical aberrations, which affect ima
 ## Proposed Solution
 We developed a virtual optical microscope model to simulate magnification, resolution limits, and optical aberrations using image-based visualization.
 
-## System Model
+#### System Model
 Input Image → Magnification → Resolution Limit → Aberrations → Output Image
 
 ## Assumptions
