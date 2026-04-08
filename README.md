@@ -1,4 +1,4 @@
-### # Virtual Optical Microscope
+### # Virtual Optical Microscope....
 
 ## Problem Statement
 Microscopes are limited by diffraction and optical aberrations, which affect image resolution and clarity.
